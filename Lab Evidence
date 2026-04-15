@@ -1,0 +1,9 @@
+## Lab Evidence
+
+### User-1 (S3 Support)
+* **Access Granted:** Successfully listing S3 buckets.
+* **Access Denied:** Attempting to view EC2 instances.
+
+### User-2 (EC2 Support)
+* **Access Granted:** Viewing EC2 instances.
+* **Access Denied:** Attempting to stop an instance and viewing S3 buckets.
